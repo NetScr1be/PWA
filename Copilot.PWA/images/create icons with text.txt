@@ -1,0 +1,5 @@
+convert -background lightblue -fill blue  -font Courier-Bold -size 192x192 -pointsize 48 -gravity center caption:'19
+2\nx\n192' 192x192.png
+
+
+convert -background lightblue -fill blue  -font Courier-Bold -size 192x192 -pointsize 48 -gravity center caption:'512\nx\n512' 512x512.png
