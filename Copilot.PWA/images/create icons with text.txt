@@ -3,3 +3,7 @@ convert -background lightblue -fill blue  -font Courier-Bold -size 192x192 -poin
 
 
 convert -background lightblue -fill blue  -font Courier-Bold -size 192x192 -pointsize 48 -gravity center caption:'512\nx\n512' 512x512.png
+
+Favicon
+
+convert -background lightgreen -fill green  -font Courier-Bold -size 192x192 -pointsize 48 -gravity center caption:'PWA\nby\nPB' favicon.ico
